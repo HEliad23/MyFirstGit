@@ -131,7 +131,7 @@
                     <systemPropertyVariables>
                         <testng.dtd.http>true</testng.dtd.http>
                     </systemPropertyVariables>
-                </configuratio>
+                </configuration>
             </plugin>
         </plugins>
     </build>
